@@ -1,0 +1,50 @@
+[{
+	"timestamp": 1519516800,
+	"isOccupied": true,
+	"meter": {
+		"number": 4,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519517100,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-48.8712", "-151.6866"],
+		"address": "15275 Elfrieda Street, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519517400,
+	"isOccupied": true,
+	"meter": {
+		"number": 2,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519517700,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["61.9100", "29.3380"],
+		"address": "76229 Eveline Pass, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519518000,
+	"isOccupied": false,
+	"meter": {
+		"number": 4,
+		"location": ["-87.7160", "-176.5731"],
+		"address": "253 Johnson Creek, XYZ, AB"
+	}
+}, {
+	"timestamp": 1519518300,
+	"isOccupied": true,
+	"meter": {
+		"number": 1,
+		"location": ["-75.5712", "-130.5355"],
+		"address": "95085 Florencio Lights, XYZ, AB"
+	}
+}
+]

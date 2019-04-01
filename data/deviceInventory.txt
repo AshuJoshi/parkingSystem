@@ -1,0 +1,44 @@
+parkingMeter001
+type: ParkingMeter
+address: 76229,EvelinePass,XYZ,AB
+location: 61.9100,29.3380
+number: 1
+arn:aws:iot:us-east-1:810966190526:thing/parkingMeter001
+
+parkingMeter002
+type: ParkingMeter
+address: 95085,FlorencioLights,XYZ,AB
+location: -75.5712,-130.5355
+number: 2
+arn:aws:iot:us-east-1:810966190526:thing/parkingMeter002
+
+parkingMeter003
+type: ParkingMeter
+address: 95085,FlorencioLights,XYZ,AB
+location: -75.5712,-130.5355
+number: 3
+arn:aws:iot:us-east-1:810966190526:thing/parkingMeter003
+
+parkingMeter004
+type: ParkingMeter
+address: 253,JohnsonCreek,XYZ,AB
+qlocation: -87.7160,-176.5731
+number: 4
+arn:aws:iot:us-east-1:810966190526:thing/parkingMeter004
+
+parkingMeter005
+type: ParkingMeter
+address: 069,AufderharCauseway,XYZ,AB
+location: 23.1485,-139.9646
+number: 5
+arn:aws:iot:us-east-1:810966190526:thing/parkingMeter005
+
+parkingMeter006
+type: ParkingMeter2
+address: 
+location: 
+number: 
+meterid: 6
+make: ACMEMeters
+model: WonderMeter
+arn:aws:iot:us-east-1:810966190526:thing/parkingMeter006

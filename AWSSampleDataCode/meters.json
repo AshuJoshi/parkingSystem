@@ -1,0 +1,27 @@
+{
+    "1" : {
+        "thingName": "parkingMeter001",
+        "keyPath" : "./certs/f050a003ea-private.pem.key",
+        "certPath" : "./certs/f050a003ea-certificate.pem.crt"
+    },
+    "2" : {
+        "thingName": "parkingMeter002",
+        "keyPath" : "./certs/15ba614edd-private.pem.key",
+        "certPath" : "./certs/15ba614edd-certificate.pem.crt"
+    },
+    "3" : {
+        "thingName": "parkingMeter003",
+        "keyPath" : "./certs/d11ed36107-private.pem.key",
+        "certPath" : "./certs/d11ed36107-certificate.pem.crt"
+    },
+    "4" : {
+        "thingName": "parkingMeter004",
+        "keyPath" : "./certs/43d7404684-private.pem.key",
+        "certPath" : "./certs/43d7404684-certificate.pem.crt"
+    },
+    "5" : {
+        "thingName": "parkingMeter005",
+        "keyPath" : "./certs/6d7afc21f6-private.pem.key",
+        "certPath" : "./certs/6d7afc21f6-certificate.pem.crt"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "6" : {
+        "thingName": "parkingMeter006",
+        "keyPath" : "./certs/3e95fefda5-private.pem.key",
+        "certPath" : "./certs/3e95fefda5-certificate.pem.crt"
+    }
+}
