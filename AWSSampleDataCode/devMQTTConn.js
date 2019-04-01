@@ -1,7 +1,6 @@
+require('dotenv').config();
 var awsIot = require('aws-iot-device-sdk');
 var parkingMeters = require('./meters.json');
-
-var selecterMeter;
 
 var deviceAWSIoT = function(meterId, cb) {
 
@@ -12,9 +11,9 @@ var deviceAWSIoT = function(meterId, cb) {
     this.thingConnection = awsIot.device({
         keyPath : parkingMeters[meterId].keyPath,
         certPath : parkingMeters[meterId].certPath,
-        caPath: './certs/AmazonRootCA1.pem',
+        caPath: process.env.CA_PATH,
         clientId: parkingMeters[meterId].thingName,
-        host: 'a13azn5ydxwqev-ats.iot.us-east-1.amazonaws.com',
+        host: process.env.AWS_IOT,
         debug: true
     });
 
